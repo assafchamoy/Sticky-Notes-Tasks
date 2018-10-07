@@ -160,6 +160,7 @@ h3 {
 
 .stickynote {
     background-image: url("./images/notebg.png");
+    min-width: 175px;
     height: 300px;
     background-repeat: no-repeat;
     float: left;
@@ -210,7 +211,7 @@ h3 {
 
 /*Inner Stickynote Text Area styles */
 p.stickytask {
-    width: 100%;
+    max-width: 150px;
     height: 120px;
     float: left;
     position: absolute;
