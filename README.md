@@ -1,1 +1,1 @@
-# Sticky-Notes-Tasks
+# Sticky Notes Tasks
